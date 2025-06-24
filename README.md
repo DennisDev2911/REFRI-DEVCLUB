@@ -2,13 +2,10 @@
   PROJETO REFRI DEVCLUB
 </h1>
 
-<p align="center">
-  <img src="https://github.com/DennisDev2911/NIKE---Novo/blob/main/img/logo%20(3).png?raw=true" width="10%" />
-</p>
 
 ## 💻 Projeto
 
-Este projeto é um tutorial que ensina a como criar o site do filme **Mario Bros** ao usar _HTML_ , _CSS_e_JAVASCRIPT.
+Este projeto é um tutorial que ensina a como criar um projrto **Refri DevClub** ao usar _HTML_ , _CSS_e_JAVASCRIPT.
 
 ## 🚀 Tecnologias
 
@@ -19,7 +16,7 @@ Este projeto é um tutorial que ensina a como criar o site do filme **Mario Bros
 
 ## 📺 Aprendi esse projeto no DevClub <a href="https://rodolfomori.com.br/devclub">DevClub</a>
 
-<img src="">
+<img src="https://github.com/DennisDev2911/REFRI-DEVCLUB/blob/main/img/REFRI%20MORANGO%20IMG.JPG?raw=true">
 <img src="">
 <img src="">
 
