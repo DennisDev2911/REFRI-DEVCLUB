@@ -17,6 +17,6 @@ Este projeto é um tutorial que ensina a como criar um projrto **Refri DevClub**
 ## 📺 Aprendi esse projeto no DevClub <a href="https://rodolfomori.com.br/devclub">DevClub</a>
 
 <img src="https://github.com/DennisDev2911/REFRI-DEVCLUB/blob/main/img/REFRI%20MORANGO%20IMG.JPG?raw=true">
-<img src="">
+<img src="https://github.com/DennisDev2911/REFRI-DEVCLUB/blob/main/img/REFRI%20LARANJA%20IMG.JPG?raw=true">
 <img src="">
 
