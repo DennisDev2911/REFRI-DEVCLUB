@@ -2,5 +2,5 @@
 <br>
 <h2>Esse é um projeto que aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
 <br>
-<h2>Youtube <a herf="https://www.youtube.com/watch?v=QLbrpjfltFs&list=PLsFVybaG4mOBmLZH65Z5HbR0FieLJJ1_r">Clique aqui</a></h2>
-<img src="https://github.com/DennisDev2911/REFRI-DEVCLUB/blob/main/img/REFRI%20DEVCLUB.JPG?raw=true" /><a href="https://www.youtube.com/watch?v=QLbrpjfltFs&list=PLsFVybaG4mOBmLZH65Z5HbR0FieLJJ1_r"></a>
+<h2>Youtube <button><a herf="https://www.youtube.com/watch?v=QLbrpjfltFs&list=PLsFVybaG4mOBmLZH65Z5HbR0FieLJJ1_r">Clique aqui</a></button></h2>
+<img src="https://github.com/DennisDev2911/REFRI-DEVCLUB/blob/main/img/REFRI%20DEVCLUB.JPG?raw=true" />
