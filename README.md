@@ -1,6 +1,25 @@
-<h1>Refri DevClub</h1>
-<br>
-<h2>Esse é um projeto que aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
-<br>
-<h2>Tutorial no <a href="https://www.youtube.com/watch?v=QLbrpjfltFs&list=PLsFVybaG4mOBmLZH65Z5HbR0FieLJJ1_r">Youtube</a></h2>
-<img src="https://github.com/DennisDev2911/REFRI-DEVCLUB/blob/main/img/REFRI%20DEVCLUB.JPG?raw=true" />
+<h1 align="center">
+  PROJETO REFRI DEVCLUB
+</h1>
+
+<p align="center">
+  <img src="https://github.com/DennisDev2911/NIKE---Novo/blob/main/img/logo%20(3).png?raw=true" width="10%" />
+</p>
+
+## 💻 Projeto
+
+Este projeto é um tutorial que ensina a como criar o site do filme **Mario Bros** ao usar _HTML_ , _CSS_e_JAVASCRIPT.
+
+## 🚀 Tecnologias
+
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+
+## 📺 Aprendi esse projeto no DevClub <a href="https://rodolfomori.com.br/devclub">DevClub</a>
+
+<img src="">
+<img src="">
+<img src="">
+
